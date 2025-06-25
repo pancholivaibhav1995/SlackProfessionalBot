@@ -1,0 +1,11 @@
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\bin\Debug\net8.0\SlackProfessionalBot.Model.deps.json
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\bin\Debug\net8.0\SlackProfessionalBot.Model.dll
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\bin\Debug\net8.0\SlackProfessionalBot.Model.pdb
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\SlackProfessionalBot.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\SlackProfessionalBot.Model.AssemblyInfoInputs.cache
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\SlackProfessionalBot.Model.AssemblyInfo.cs
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\SlackProfessionalBot.Model.csproj.CoreCompileInputs.cache
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\SlackProfessionalBot.Model.dll
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\refint\SlackProfessionalBot.Model.dll
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\SlackProfessionalBot.Model.pdb
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot.Model\obj\Debug\net8.0\ref\SlackProfessionalBot.Model.dll

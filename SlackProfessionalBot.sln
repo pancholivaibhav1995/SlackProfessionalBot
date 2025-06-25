@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackProfessionalBot", "SlackProfessionalBot\SlackProfessionalBot.csproj", "{5335CD1F-C569-454A-A25B-189B62063817}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CORE", "CORE", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{546E51DA-0A38-4057-85CE-F0B7C0DA31A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackProfessionalBot.CORE", "SlackProfessionalBot.CORE\SlackProfessionalBot.CORE.csproj", "{FE8B1155-EB8A-4777-A0F7-01A54B0CDAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackProfessionalBot.Model", "SlackProfessionalBot.Model\SlackProfessionalBot.Model.csproj", "{A218DD4F-616E-4409-834E-AD50DD4FFAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5335CD1F-C569-454A-A25B-189B62063817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5335CD1F-C569-454A-A25B-189B62063817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5335CD1F-C569-454A-A25B-189B62063817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5335CD1F-C569-454A-A25B-189B62063817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8B1155-EB8A-4777-A0F7-01A54B0CDAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8B1155-EB8A-4777-A0F7-01A54B0CDAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8B1155-EB8A-4777-A0F7-01A54B0CDAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8B1155-EB8A-4777-A0F7-01A54B0CDAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A218DD4F-616E-4409-834E-AD50DD4FFAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A218DD4F-616E-4409-834E-AD50DD4FFAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A218DD4F-616E-4409-834E-AD50DD4FFAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A218DD4F-616E-4409-834E-AD50DD4FFAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5335CD1F-C569-454A-A25B-189B62063817} = {546E51DA-0A38-4057-85CE-F0B7C0DA31A2}
+		{FE8B1155-EB8A-4777-A0F7-01A54B0CDAF8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A218DD4F-616E-4409-834E-AD50DD4FFAF5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E468A05-D1C9-4939-9D25-BBCDD0917736}
+	EndGlobalSection
+EndGlobal

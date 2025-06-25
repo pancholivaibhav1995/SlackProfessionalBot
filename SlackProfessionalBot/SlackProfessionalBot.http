@@ -1,0 +1,6 @@
+@SlackProfessionalBot_HostAddress = http://localhost:5157
+
+GET {{SlackProfessionalBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
