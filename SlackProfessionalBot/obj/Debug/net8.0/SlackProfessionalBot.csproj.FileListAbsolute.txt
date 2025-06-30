@@ -38,3 +38,4 @@ C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfession
 C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot\bin\Debug\net8.0\SlackProfessionalBot.Model.pdb
 C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot\bin\Debug\net8.0\SlackProfessionalBot.CORE.dll
 C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot\bin\Debug\net8.0\SlackProfessionalBot.CORE.pdb
+C:\Users\VaibhavkumarPancholi\Desktop\Slack\SlackProfessionalBot\SlackProfessionalBot\obj\Debug\net8.0\SlackProfessionalBot.sourcelink.json

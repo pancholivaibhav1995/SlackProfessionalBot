@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlackProfessionalBot.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b99df81a015de0e1820eba2ccb0b752c9e92b01")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlackProfessionalBot.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlackProfessionalBot.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
